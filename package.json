@@ -10,11 +10,13 @@
   "author": "Saeid Atashin",
   "license": "ISC",
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.17.11",
     "axios": "^1.3.4",
     "ejs": "^3.1.8",
     "express": "^4.18.2",
     "express-ejs-layouts": "^2.5.1",
-    "mongoose": "^7.0.1"
+    "mongoose": "^7.0.1",
+    "parse": "^4.0.1"
   },
   "devDependencies": {
     "dotenv": "^16.0.3"
