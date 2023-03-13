@@ -1,5 +1,5 @@
 .env
-node_modules
+/node_modules
 
 
 # mongodb+srv://saeidkaseatashin:KZV1FJaLiY6brmwP@firstbackend.thf7qda.mongodb.net/?retryWrites=true&w=majority
